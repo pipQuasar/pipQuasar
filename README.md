@@ -9,7 +9,7 @@ Habilidades: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%
 
 
 
-- 🔭 Estoy trabajando en Mi perfil profeisonal como Developer 
+- 🔭 Estoy trabajando en Mi perfil profesional como Developer 
 - 🌱 Estoy aprendiendo BackEnd Development y DBA 
 - 💬 Pregúntame acerca de One piece ☠️👒 
 - 📫 Cómo contactarme: mftoba963@gmail.com 
