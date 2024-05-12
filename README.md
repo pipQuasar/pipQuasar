@@ -1,20 +1,18 @@
-<h1 align="center">Hola 👋, Me llamo Tobias Pereyra!</h1>
-<h3 align="center">Un estudiante Universitario con gran ambición!</h3>
+### Hola 👋, mi nombre es Tobias :)
+#### Soy un estudiante universitario con ganas de crecer en el mundo IT!
+Sobre mi: 
+·Estudiante Universitario/Autodidacta
+·Actualmente estoy aprendiendo Python, orientándome hacia el área de desarrollo BackEnd y DBA. 
 
-- 🔭 Actualmente trabajando en **Desarrollar mi conocimiento**
 
-- 🌱 Estoy aprendiendo **Python, MongoDB, FastAPI**
+Habilidades: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- 👨‍💻 Todo mi avance en el mundo IT se encuentra en: [https://github.com/pipQuasar](https://github.com/pipQuasar)
+- 🔭 Estoy trabajando en Mi perfil profeisonal como Developer 
+- 🌱 Estoy aprendiendo BackEnd Development y DBA 
+- 💬 Pregúntame acerca de One piece ☠️👒 
+- 📫 Cómo contactarme: mftoba963@gmail.com 
 
-- 📫 Cómo contactarme **mftoba963@gmail.com**
 
-- ⚡ Fun fact **Soy animal nocturno**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pipQuasar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/toba.itss/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](1176100725)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/toba.itss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toba.itss" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipQuasar)](https://github.com/anuraghazra/github-readme-stats)
