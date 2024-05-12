@@ -1,7 +1,7 @@
 ### Hola 👋, mi nombre es Tobias :)
 #### Soy un estudiante universitario con ganas de crecer en el mundo IT!
 Sobre mi: 
-·Estudiante Universitario/Autodidacta
+·Estudiante Universitario/Autodidacta"\n"
 ·Actualmente estoy aprendiendo Python, orientándome hacia el área de desarrollo BackEnd y DBA. 
 
 
