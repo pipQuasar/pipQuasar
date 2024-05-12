@@ -1,7 +1,7 @@
 ### Hola 👋, mi nombre es Tobias :)
-#### Soy un estudiante universitario con ganas de crecer en el mundo IT!
+#### Soy un afilador de cuchillos con ganas de crecer en el mundo IT!
 Sobre mi: 
-·Estudiante Universitario/Autodidacta y actualmente estoy aprendiendo Python, MondoDB y FastApi, orientándome hacia el área de desarrollo BackEnd y DBA. 
+·Afilador artesanal de cuchillos.  Estudiante Universitario/Autodidacta y actualmente estoy aprendiendo Python, MondoDB y FastApi, orientándome hacia el área de desarrollo BackEnd y DBA. 
 
 
 
