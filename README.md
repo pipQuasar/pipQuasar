@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Me llamo Tobias Pereyra!</h1>
+<h1 align="center">Hola 👋, Me llamo Tobias Pereyra!</h1>
 <h3 align="center">Un estudiante Universitario con gran ambición!</h3>
 
 - 🔭 Actualmente trabajando en **Desarrollar mi conocimiento**
