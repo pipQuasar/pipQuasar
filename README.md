@@ -1,4 +1,4 @@
-### Hola 👋, mi nombre es Tobias :)
+### Hola 👋, mi nombre es Toba :)
 #### Soy un estudiante universitario con ganas de crecer en el mundo IT!
 Sobre mi: Actualmente estoy aprendiendo a través de la Universidad y por Internet a ser un Backend Developer.
 
