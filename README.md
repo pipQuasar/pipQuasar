@@ -1,5 +1,5 @@
 ### Hola 👋, mi nombre es Tobias :)
-#### Soy un afilador de cuchillos con ganas de crecer en el mundo IT!
+#### Soy un estudiante universitario con ganas de crecer en el mundo IT!
 Sobre mi: Actualmente estoy aprendiendo a través de la Universidad y por Internet a ser un Backend Developer.
 
 
