@@ -1,7 +1,7 @@
-# 💻 Operating System 
+# 🖥 Operating System 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<h2>🧠 Integrated Development Environment: </h2>
+# 🧠 Integrated Development Environment:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # 📚 Tech Stack
@@ -10,10 +10,10 @@
 # 📝 Learning 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-# Working on
+# 📍 Working on
 - 🔭 Cada dia ser mejor developer :)
 
-# Contact
+# 📞 Contact
 - 📫 mftoba963@gmail.com 
 
 
