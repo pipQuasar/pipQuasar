@@ -1,3 +1,7 @@
+# 🐧 About Me:
+Hola! Me llamo Tobias Pereyra y soy un Trainee Dev.
+
+
 # 🖥 Operating System 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -10,8 +14,9 @@
 # 📝 Learning 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-# 📍 Working on
-<h3> 🔒 Actualmente desarrollando una libreria en Python...</h3>
+# 🔒 Working on
+<h4> 📍 Trabajando en mantener este README actualizado con mis  últimos avances y aprendizajes</h4>
+<h4> 📍 Actualmente desarrollando FFpython, una libreria en Python</h4>
 
 # 📞 Contact
 - 📫 mftoba963@gmail.com 
