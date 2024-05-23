@@ -16,8 +16,8 @@ Formo parte de los estudiantes matriculados en la <i>Universidad de Tecnología 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 # 🔒 Working on
-<h4> 📍 Trabajando en mantener este README actualizado con mis  últimos avances y aprendizajes</h4>
-<h4> 📍 Actualmente desarrollando FFpython, una libreria en Python</h4>
+<h4> 📍 Trabajando en mantener este README actualizado con mis  últimos avances y aprendizajes.</h4>
+<h4> 📍 Actualmente desarrollando FFpython, una libreria en Python. Para más información te invito a que le des un vistazo en mis repositorios ;)</h4>
 
 # 📞 Contact
 - 📫 mftoba963@gmail.com 
