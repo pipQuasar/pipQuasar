@@ -1,5 +1,5 @@
 # 🐧 About Me:
-<h3>Hola! Me llamo Tobias Pereyra y soy un <i>Trainee Developer</i>.</h3>
+<h3>Hola! Me llamo Tobias Pereyra y soy un <i>Trainee Developer</i> en Python.</h3>
 
 Formo parte de los estudiantes matriculados en la <i>Universidad de Tecnología Nacional</i> (U.T.N.), Argentina.
 
