@@ -1,7 +1,7 @@
 # 🐧 About Me:
-<h4>Hola! Me llamo Tobias Pereyra y soy un <i>Trainee Developer</i>.</h4>
+<h3>Hola! Me llamo Tobias Pereyra y soy un <i>Trainee Developer</i>.</h3>
 
-Formo parte de los estudiantes matriculados en la Universidad de Tecnología Nacional (U.T.N.), Argentina.
+Formo parte de los estudiantes matriculados en la <i>Universidad de Tecnología Nacional</i> (U.T.N.), Argentina.
 
 # 🖥 Operating System 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
