@@ -6,15 +6,15 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 <h2>Tech Stack</h2>
 <h3>Operating System</h3> 
 · Linux
-<h4>IDE</h4>
+<h3>IDE</h3>
 · Visual Studio Code
-<h4>Languages</h4>
+<h3>Languages</h3>
 · C++<br>
 · Python 
-<h4>Tools</h4>
+<h3>Tools</h3>
 · Git<br>
 · GitHub
-<h4>Learning </h4>
+<h3>Learning </h3>
 · Software Development<br>
 · System Analysis<br>
 · Data Base Administration and Backend Development<br>
