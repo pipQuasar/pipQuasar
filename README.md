@@ -22,9 +22,9 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
   - FastApi
   - Pandas)
 
-<h3>Working on</h3>
-<h4> · Trabajando en mantener este README actualizado con mis  últimos avances y aprendizajes.</h4>
-<h4> · Actualmente desarrollando FFpython, una libreria en Python. Para más información te invito a que le des un vistazo en mis repositorios ;)</h4>
+<h2>Working on</h2>
+<h4> · Working to keep this README updated and getting better.</h4>
+<h4> · Currently developing FFpython, a Python library. For more information I invite you to take a look at my repositories ;)</h4>
 
 <h3>How to reach me 📫</h3>
 <h4>mftoba963@gmail.com</h4>
