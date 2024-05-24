@@ -1,20 +1,30 @@
-<h5>About me:</h5>
+<h4>About me:</h4>
 I am a student at the National University of Technology (UTN), where I am currently acquiring knowledge in <i>C++</i> oriented to Systems Analysis, while self-taught I am learning <i>Python</i>
 
 Currently, I am delving into the <i>development of libraries and frameworks</i>, exploring the field of creating reusable software and at the same time applying the knowledge acquired.
 
 <h2>Tech Stack</h2>
 <h3>Operating System</h3> 
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+· Linux
 
 <h3>IDE</h3>
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+· Visual Studio Code
 
 <h3>Languages</h3>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+· C++
+· Python 
+
+<h3>Tools</h3>
+· Git
+. GitHub
 
 <h3>Learning </h3>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+· Software Development
+· System Analysis
+· Data Base Administration and Backend Development
+  - MongoDB
+  - FastApi
+  - Pandas
 
 <h3>Working on</h3>
 <h4> · Trabajando en mantener este README actualizado con mis  últimos avances y aprendizajes.</h4>
