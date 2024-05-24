@@ -9,15 +9,15 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 <h4>IDE</h4>
 · Visual Studio Code
 <h4>Languages</h4>
-· C++
+· C++<br>
 · Python 
 <h4>Tools</h4>
-· Git
-. GitHub
+· Git<br>
+· GitHub
 <h4>Learning </h4>
-· Software Development
-· System Analysis
-· Data Base Administration and Backend Development
+· Software Development<br>
+· System Analysis<br>
+· Data Base Administration and Backend Development<br>
   (MongoDB
   - FastApi
   - Pandas)
