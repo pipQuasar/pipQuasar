@@ -24,7 +24,7 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 
 <h2>Working on</h2>
 · Working to keep this README updated and getting better<br>
-· Currently developing FPython, a Python library. For more information I invite you to take a look at my repositories ;)
+· Currently developing FFpython, a Python library. For more information I invite you to take a look at my repositories ;)
 
 <h3>How to reach me 📫</h3>
 <h4>mftoba963@gmail.com</h4>
