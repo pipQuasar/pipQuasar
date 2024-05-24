@@ -22,9 +22,9 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 · Software Development
 · System Analysis
 · Data Base Administration and Backend Development
-  - MongoDB
+  (MongoDB
   - FastApi
-  - Pandas
+  - Pandas)
 
 <h3>Working on</h3>
 <h4> · Trabajando en mantener este README actualizado con mis  últimos avances y aprendizajes.</h4>
