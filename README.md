@@ -1,3 +1,8 @@
+# Stats and Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=maroongold)](https://git.io/streak-stats)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipQuasar&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)<br>
+
 <h3>About me:</h3>
 I am a student at the National University of Technology (UTN), where I am currently acquiring knowledge in <i>C++</i> oriented to Systems Analysis, while self-taught I am learning <i>Python</i>
 
@@ -27,11 +32,6 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 · Working to keep this README updated and getting better<br>
 · Currently developing FFpython, a Python library. For more information I invite you to take a look at my repositories ;)<br>
 https://github.com/pipQuasar?tab=repositories
-
-# Stats and Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=maroongold)](https://git.io/streak-stats)<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipQuasar&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 <h3>How to reach me 📫</h3>
 <h4>mftoba963@gmail.com</h4>
