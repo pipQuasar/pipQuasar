@@ -29,7 +29,7 @@ https://github.com/pipQuasar?tab=repositories
 
 # Stats and Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/pipQuasar=DenverCoder1&theme=neon-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=neon-dark)](https://git.io/streak-stats)
 
 
 <h3>How to reach me 📫</h3>
