@@ -5,20 +5,20 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 
 <h2>Tech Stack</h2>
 <h3>Operating System</h3> 
-· Linux
+- Linux
 <h3>IDE</h3>
-· Visual Studio Code
+- Visual Studio Code
 <h3>Languages</h3>
-· C++<br>
-· Python 
+- C++<br>
+- Python 
 <h3>Tools</h3>
-· Git<br>
-· GitHub
+- Git<br>
+- GitHub
 <h3>Learning </h3>
-· Software Development<br>![github-contribution-grid-snake](https://github.com/pipQuasar/pipQuasar/assets/168930271/a550c6eb-419a-43d9-a3f6-a5ca2dc70207)
+- Software Development<br>![github-contribution-grid-snake](https://github.com/pipQuasar/pipQuasar/assets/168930271/a550c6eb-419a-43d9-a3f6-a5ca2dc70207)
 
-· System Analysis<br>
-· Data Base Administration and Backend Development<br>
+- System Analysis<br>
+- Data Base Administration and Backend Development<br>
   (MongoDB
   - FastApi
   - Pandas)
@@ -33,7 +33,7 @@ https://github.com/pipQuasar?tab=repositories
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=maroongold)](https://git.io/streak-stats)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipQuasar&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-
+![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
 
 <h3>How to reach me 📫</h3>
 <h4>mftoba963@gmail.com</h4>
