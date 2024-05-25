@@ -11,7 +11,7 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 <h3>Operating System</h3> 
 - Linux
 <h3>IDE</h3>
-- Visual Studio Code
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <h3>Languages</h3>
 - C++<br>
 - Python 
