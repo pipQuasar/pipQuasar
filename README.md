@@ -29,7 +29,8 @@ https://github.com/pipQuasar?tab=repositories
 
 # Stats and Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=neon-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=maroongold)](https://git.io/streak-stats)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipQuasar)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 
 <h3>How to reach me 📫</h3>
