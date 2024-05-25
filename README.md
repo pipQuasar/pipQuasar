@@ -33,8 +33,6 @@ https://github.com/pipQuasar?tab=repositories
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=maroongold)](https://git.io/streak-stats)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipQuasar&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-![Uploading github-contribution-grid-snake.svg…]()
-
 
 
 <h3>How to reach me 📫</h3>
