@@ -27,7 +27,7 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 · Currently developing FFpython, a Python library. For more information I invite you to take a look at my repositories ;)<br>
 https://github.com/pipQuasar?tab=repositories
 
-[![GitHub Streak](https://streak-stats.demolab.com/pipQuasar=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/pipQuasar=DenverCoder1&theme=neon-dark)](https://git.io/streak-stats)
 
 
 <h3>How to reach me 📫</h3>
