@@ -19,9 +19,9 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
   - <i>Git</i><br>
   - <i>GitHub</i>
 <h3>Learning </h3>
-  - <i>Software development</i><br>
-  - <i>System analysis</i><br>
-  - <i>Data Base Administration and Backend Development</i><br>
+  - Software development<br>
+  - System analysis<br>
+  - Data Base Administration and Backend Development<br>
     (MongoDB
     - FastApi
     - Pandas)
