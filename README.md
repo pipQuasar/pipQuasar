@@ -1,6 +1,6 @@
 # Stats and Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=maroongold)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=maroongold)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipQuasar&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 <h3>About me:</h3>
@@ -20,8 +20,7 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 - Git<br>
 - GitHub
 <h3>Learning </h3>
-- Software Development<br>![github-contribution-grid-snake](https://github.com/pipQuasar/pipQuasar/assets/168930271/a550c6eb-419a-43d9-a3f6-a5ca2dc70207)
-
+- Software Development<br>
 - System Analysis<br>
 - Data Base Administration and Backend Development<br>
   (MongoDB
