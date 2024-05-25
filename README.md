@@ -1,7 +1,7 @@
 # Stats and Activity
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=shadow-red)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipQuasar&theme=whatsapp-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pipQuasar&theme=youtube-dark)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 <h3>About me:</h3>
 I am a student at the National University of Technology (UTN), where I am currently acquiring knowledge in <i>C++</i> oriented to Systems Analysis, while self-taught I am learning <i>Python</i>
