@@ -9,26 +9,26 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 
 <h2>Tech Stack</h2>
 <h3>Operating System</h3> 
-- Linux
+  - <i>Linux</i>
 <h3>IDE</h3>
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  - <i>Visual Studio Code</i>
 <h3>Languages</h3>
-- C++<br>
-- Python 
+  - <i>C++</i><br>
+  - <i>Python</i>
 <h3>Tools</h3>
-- Git<br>
-- GitHub
+  - <i>Git</i><br>
+  - <i>GitHub</i>
 <h3>Learning </h3>
-- Software Development<br>
-- System Analysis<br>
-- Data Base Administration and Backend Development<br>
-  (MongoDB
-  - FastApi
-  - Pandas)
+  - <i>Software development</i><br>
+  - <i>System analysis</i><br>
+  - <i>Data Base Administration and Backend Development</i><br>
+    (MongoDB
+    - FastApi
+    - Pandas)
 
 <h2>Working on</h2>
-· Working to keep this README updated and getting better<br>
-· Currently developing FFpython, a Python library. For more information I invite you to take a look at my repositories ;)<br>
+  - Working to keep this README updated and getting better<br>
+  - Currently developing FFpython, a Python library. For more information I invite you to take a look at my repositories ;)<br>
 https://github.com/pipQuasar?tab=repositories
 
 <h3>How to reach me 📫</h3>
