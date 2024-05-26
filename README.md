@@ -1,5 +1,5 @@
 # Stats and Activity
-ss
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=shadow-red)](https://git.io/streak-stats)
 
 <h3>About me:</h3>
