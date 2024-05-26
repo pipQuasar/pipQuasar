@@ -1,4 +1,4 @@
-<center># Stats and Activity
+# Stats and Activity
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=shadow-red)](https://git.io/streak-stats)
 
