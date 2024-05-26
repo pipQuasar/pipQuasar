@@ -1,5 +1,5 @@
 <p align="center">
-# Stats and Activity
+<h1>Stats and Activity</h1> 
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=shadow-red)](https://git.io/streak-stats)
