@@ -24,8 +24,6 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
   <li>Software development<br></li>
   <li>System analysis<br></li>
   <li>Data Base Administration and Backend development<br></li>
-  
-  [![My Skills](https://skillicons.dev/icons?i=mongodb,fastapi,pandas)](https://skillicons.dev)
 
 <h2>Working on</h2>
   <li>Working to keep this README updated and getting better<br></li>
@@ -34,5 +32,4 @@ https://github.com/pipQuasar?tab=repositories
 
 <h3>How to reach me 📫</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mftoba963@gmail.com)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pipQuasar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/toba.itss/)
+Mail: mftoba963@gmail.com
