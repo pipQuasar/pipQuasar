@@ -21,14 +21,14 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 
   [![My Skills](https://skillicons.dev/icons?i=discord,git,github)](https://skillicons.dev)
 <h3>Learning </h3>
-  - Software development<br>
-  - System analysis<br>
+  <li>Software development<br></li>
+  <li>System analysis<br></li>
   
   [![My Skills](https://skillicons.dev/icons?i=mongodb,fastapi,pandas)](https://skillicons.dev)
 
 <h2>Working on</h2>
-  - Working to keep this README updated and getting better<br>
-  - Currently developing FFpython, a Python library. For more information I invite you to take a look at my repositories ;)<br>
+  <li>Working to keep this README updated and getting better<br></li>
+  <li>Currently developing FFpython, a Python library. For more information I invite you to take a look at my repositories ;)<br></li> 
 https://github.com/pipQuasar?tab=repositories
 
 <h3>How to reach me 📫</h3>
