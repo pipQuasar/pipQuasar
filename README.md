@@ -13,8 +13,8 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 <h3>IDE</h3>
   - <i>Visual Studio Code</i>
 <h3>Languages</h3>
-  - <i>C++</i><br>
-  - <i>Python</i>
+  
+  [![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
 <h3>Tools</h3>
   - <i>Git</i><br>
   - <i>GitHub</i>
