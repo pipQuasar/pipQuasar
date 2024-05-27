@@ -23,6 +23,7 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 <h3>Learning </h3>
   <li>Software development<br></li>
   <li>System analysis<br></li>
+  <li>Data Base Administration and Backend development<br></li>
   
   [![My Skills](https://skillicons.dev/icons?i=mongodb,fastapi,pandas)](https://skillicons.dev)
 
