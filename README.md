@@ -34,6 +34,6 @@ https://github.com/pipQuasar?tab=repositories
 
 <h3>How to reach me 📫</h3>
 <h4>Mail: mftoba963@gmail.com</h4>
-
+<src https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pipQuasar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/toba.itss/)
