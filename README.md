@@ -9,22 +9,22 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 
 <h2>Tech Stack</h2>
 <h3>Operating System</h3> 
-  - <i>Linux</i>
+
+  [![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
 <h3>IDE</h3>
-  - <i>Visual Studio Code</i>
+
+  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 <h3>Languages</h3>
   
   [![My Skills](https://skillicons.dev/icons?i=python,cpp)](https://skillicons.dev)
 <h3>Tools</h3>
-  - <i>Git</i><br>
-  - <i>GitHub</i>
+
+  [![My Skills](https://skillicons.dev/icons?i=discord,git,github)](https://skillicons.dev)
 <h3>Learning </h3>
   - Software development<br>
   - System analysis<br>
-  - Data Base Administration and Backend Development<br>
-    (MongoDB
-    - FastApi
-    - Pandas)
+  
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,fastapi,pandas)](https://skillicons.dev)
 
 <h2>Working on</h2>
   - Working to keep this README updated and getting better<br>
