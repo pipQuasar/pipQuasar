@@ -20,6 +20,8 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 <h3>Tools</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=discord,git,github)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=numpy,pandassickit-learn,matplotlib,seaborn,tensorflow)](https://skillicons.dev)
 <h3>Learning </h3>
   <li>Software development<br></li>
   <li>IA</li>
