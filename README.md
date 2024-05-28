@@ -22,8 +22,6 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
   [![My Skills](https://skillicons.dev/icons?i=discord,git,github)](https://skillicons.dev)
 <h3>Learning </h3>
   <li>Software development<br></li>
-  <li>System analysis<br></li>
-  <li>Data Base Administration and Backend development<br></li>
   <li>IA</li>
 
 <h2>Working on</h2>
