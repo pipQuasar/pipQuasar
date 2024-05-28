@@ -28,7 +28,7 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 
 <h2>Working on</h2>
   <li>Working to keep this README updated and getting better<br></li>
-  <li>Currently developing FFpython, a Python library. For more information I invite you to take a look at my repositories ;)<br></li> 
+  <li>Currently developing 'FFpython', a python library as a personal project. For more information I invite you to take a look at my repositories ;)<br></li> 
 https://github.com/pipQuasar?tab=repositories
 
 <h3>How to reach me 📫</h3>
