@@ -24,7 +24,7 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
   <li>Software development<br></li>
   <li>System analysis<br></li>
   <li>Data Base Administration and Backend development<br></li>
-  <li>IA</li>
+  <li>Machine Learning</li>
 
 <h2>Working on</h2>
   <li>Working to keep this README updated and getting better<br></li>
