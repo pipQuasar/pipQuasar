@@ -1,7 +1,6 @@
 # Stats and Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=shadow-red)](https://git.io/streak-stats)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipQuasar&layout=compact&theme=shadow-red)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=shadow-red)](https://git.io/streak-stats)
 
 <h3>About me:</h3>
 I am a student at the National University of Technology (UTN), where I am currently acquiring knowledge in <i>C++</i> oriented to Systems Analysis, while self-taught I am learning <i>Python</i>
