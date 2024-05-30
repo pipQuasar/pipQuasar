@@ -30,8 +30,8 @@ Currently, I am delving into the <i>development of libraries and frameworks</i>,
 
 <h2>Working on</h2>
   <li>Working to keep this README updated and getting better<br></li>
-  <li>I am currently in the process of improving my programming skills, if you want to take a look at what I am working on, do not hesitate to visit this link:<br></li> 
-  https://github.com/pipQuasar?tab=repositories
+  <li>I am currently in the process of improving my programming skills, if you want to take a look at what I am working on, do not hesitate to visit this link:     
+  https://github.com/pipQuasar?tab=repositories</li> 
 
 <h3>How to reach me 📫</h3>
 
