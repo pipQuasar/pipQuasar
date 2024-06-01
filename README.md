@@ -5,7 +5,7 @@
 <h3>About me:</h3>
 I am a student at the National University of Technology (UTN), where I am currently acquiring knowledge in <i>C++</i> oriented to Systems Analysis, while self-taught I am learning <i>Python</i>
 
-Currently, I am delving into the <i>development of libraries and frameworks</i>, exploring the field of creating reusable software and at the same time learning self-taught about artificial intelligence, orienting myself more towards <i>machine-learning and deep-learning</i>.
+Currently, I am delving into the <i>development of libraries and frameworks</i>, exploring the field of creating reusable software and at the same time learning self-taught about artificial intelligence, orienting myself more towards <i>machine-learning & deep-learning</i>.
 
 <h2>Tech Stack</h2>
 <h3>Operating System</h3> 
