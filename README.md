@@ -1,6 +1,6 @@
 # Stats and Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=shadow-red)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=shadow-red)](https://git.io/streak-stats)<br>
 [![](https://visitcount.itsvg.in/api?id=pipQuasar&label=Views&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 <h3>About me:</h3>
