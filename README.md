@@ -1,6 +1,7 @@
 # Stats and Activity
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pipQuasar&theme=shadow-red)](https://git.io/streak-stats)
+[![](https://visitcount.itsvg.in/api?id=pipQuasar&label=Views&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 <h3>About me:</h3>
 I am a student at the National University of Technology (UTN), where I am currently acquiring knowledge in <i>C++</i> oriented to Systems Analysis, while self-taught I am learning <i>Python</i>
