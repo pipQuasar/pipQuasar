@@ -29,6 +29,6 @@ Currently, I am exploring reusable software development, while also learning abo
   <li>I am currently in the process of improving my programming skills, if you want to take a look at what I am working on, do not hesitate to visit this link:     
   https://github.com/pipQuasar?tab=repositories</li> 
 
-<h3>How to reach me 📫</h3>
+<h3>How to reach me! 📫</h3>
 
 Mail: mftoba963@gmail.com
