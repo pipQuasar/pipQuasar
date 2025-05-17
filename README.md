@@ -31,4 +31,4 @@ Currently, I am exploring reusable software development, while also learning abo
 
 <h3>How to reach me! 📫</h3>
 
-Mail: mftoba963@gmail.com
+Mail: tobiase.pereyra@gmail.com
