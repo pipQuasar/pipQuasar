@@ -4,7 +4,11 @@
 [![](https://visitcount.itsvg.in/api?id=pipQuasar&label=Views&color=4&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <h3>About me:</h3>
-Currently, I am exploring reusable software development, while also learning about <i>Back-end Development</i> at the University.
+Estudiante de programación en U.T.N.(Universidad Tecnológica Nacional), inmerso en el fascinante universo del desarrollo de software. 
+
+ Aunque mi trayectoria profesional formal está por comenzar, mi verdadera fortaleza reside en mi agilidad para asimilar nuevos conocimientos y mi profundo compromiso con cada desafío. Estoy convencido de que el sector IT es la vanguardia del futuro, un espacio donde la innovación no tiene límites, estoy listo para aportar mi energía y una perspectiva fresca!
+
+ Busco activamente mi primera oportunidad para sumergirme en proyectos reales, demostrar mi rápida curva de aprendizaje y contribuir con mi pasión inquebrantable por la tecnología. ¡Preparado para convertirme en un valioso activo para cualquier equipo!
 
 <h2>Tech Stack</h2>
 <h3>Operating System</h3> 
